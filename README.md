@@ -149,15 +149,6 @@ Total: **21 tests, all passing**
 - **Bean Validation** — `@Valid` on `@RequestBody` triggers automatic validation
 - **ResponseEntity** — Wraps response body with HTTP status code
 
-### Interview Topics This Project Covers
-
-- What is a breaking change in an API?
-- Difference between `@NotNull` and `@NotBlank`
-- Java `record` vs regular class
-- Why DTOs are mutable while domain objects are immutable
-- How `HashMap` provides O(1) lookup
-- JUnit 5 testing patterns
-
 ## 📝 License
 
 This is a learning project. No license specified.
