@@ -1,9 +1,10 @@
 package com.apiguardian.api_contract_gardain;
 
-import org.junit.jupiter.api.AfterEach;
+import com.apiguardian.api_contract_gardain.model.ApiEndpoint;
+import com.apiguardian.api_contract_gardain.model.ApiField;
 import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
+import com.apiguardian.api_contract_gardain.service.ContractComparator;
 
 import java.util.List;
 

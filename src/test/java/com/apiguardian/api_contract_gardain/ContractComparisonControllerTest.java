@@ -1,5 +1,9 @@
 package com.apiguardian.api_contract_gardain;
 
+import com.apiguardian.api_contract_gardain.controller.ContractComparisonController;
+import com.apiguardian.api_contract_gardain.dto.ApiFieldRequest;
+import com.apiguardian.api_contract_gardain.dto.ComparisonRequest;
+import com.apiguardian.api_contract_gardain.dto.ComparisonResult;
 import org.junit.jupiter.api.Test;
 import org.springframework.http.ResponseEntity;
 

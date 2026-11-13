@@ -1,6 +1,12 @@
-package com.apiguardian.api_contract_gardain;
+package com.apiguardian.api_contract_gardain.controller;
 
+import com.apiguardian.api_contract_gardain.service.ContractComparator;
+import com.apiguardian.api_contract_gardain.dto.ApiFieldRequest;
+import com.apiguardian.api_contract_gardain.dto.ComparisonRequest;
+import com.apiguardian.api_contract_gardain.dto.ComparisonResult;
 import jakarta.validation.Valid;
+import com.apiguardian.api_contract_gardain.model.ApiEndpoint;
+import com.apiguardian.api_contract_gardain.model.ApiField;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

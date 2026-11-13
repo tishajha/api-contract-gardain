@@ -1,4 +1,7 @@
-package com.apiguardian.api_contract_gardain;
+package com.apiguardian.api_contract_gardain.service;
+
+import com.apiguardian.api_contract_gardain.model.ApiEndpoint;
+import com.apiguardian.api_contract_gardain.model.ApiField;
 
 import java.util.ArrayList;
 import java.util.HashMap;

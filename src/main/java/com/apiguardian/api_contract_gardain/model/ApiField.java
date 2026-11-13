@@ -1,4 +1,4 @@
-package com.apiguardian.api_contract_gardain;
+package com.apiguardian.api_contract_gardain.model;
 
 public class ApiField {
     private final String fieldName;

@@ -1,4 +1,4 @@
-package com.apiguardian.api_contract_gardain;
+package com.apiguardian.api_contract_gardain.dto;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
